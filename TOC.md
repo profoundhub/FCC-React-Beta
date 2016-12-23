@@ -20,7 +20,6 @@ React 17: Override Default Props
 React 18: Use PropTypes to Define the Props You Expect
 React 19: Access Props Using this.props
 React 20: Using Props with Stateless Functional Components
-
 React 21: Create a Stateful Component
 React 22: Render State in the UI
 React 23: Render State in the UI Another Way
@@ -31,7 +30,6 @@ React 27: Use State to Toggle an Element
 React 28: Write a Simple Counter
 React 29: Create a Controlled Input
 React 30: Create a Controlled Form
-
 React 31: Pass State as Props to Child Components
 React 32: Pass a Callback as Props
 React 33: Use the Lifecycle Method componentWillMount
@@ -42,7 +40,6 @@ React 37: Optimize Re-Renders with shouldComponentUpdate
 React 38: Introducing Inline Styles
 React 39: Add Inline Styles in React
 React 40: Use Advanced JavaScript in React Render Method
-
 React 41: Render with an If/Else Condition
 React 42: Use && for a More Concise Conditional
 React 43: Return null to Prevent Rendering
@@ -51,7 +48,6 @@ React 45: Render Conditionally from Props
 React 46: Use Array.map() to Dynamically Render Elements
 React 47: Use Array.filter() to Dynamically Filter an Array
 React 48: Render React on the Server with renderToString
-
 
 ## Redux
 
