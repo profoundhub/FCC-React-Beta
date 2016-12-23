@@ -44,10 +44,13 @@ React 39: Add Inline Styles in React
 React 40: Use Advanced JavaScript in React Render Method
 
 React 41: Render with an If/Else Condition
-
-
-
-
+React 42: Use && for a More Concise Conditional
+React 43: Return null to Prevent Rendering
+React 44: Use a Ternary Expression to Render Conditionally
+React 45: Render Conditionally from Props
+React 46: Use Array.map() to Dynamically Render Elements
+React 47: Use Array.filter() to Dynamically Filter an Array
+React 48: Render React on the Server with renderToString
 
 
 ## Redux
