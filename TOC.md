@@ -33,6 +33,19 @@ React 29: Create a Controlled Input
 React 30: Create a Controlled Form
 
 React 31: Pass State as Props to Child Components
+React 32: Pass a Callback as Props
+React 33: Use the Lifecycle Method componentWillMount
+React 34: Use the Lifecycle Method componentDidMount
+React 35: Add Event Listeners
+React 36: Manage Updates with Lifecycle Methods
+React 37: Optimize Re-Renders with shouldComponentUpdate
+React 38: Introducing Inline Styles
+React 39: Add Inline Styles in React
+React 40: Use Advanced JavaScript in React Render Method
+
+React 41: Render with an If/Else Condition
+
+
 
 
 
