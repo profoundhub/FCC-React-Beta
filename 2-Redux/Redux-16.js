@@ -1,0 +1,1 @@
+// Redux 16: Remove an Item from an Array
