@@ -21,6 +21,21 @@ React 18: Use PropTypes to Define the Props You Expect
 React 19: Access Props Using this.props
 React 20: Using Props with Stateless Functional Components
 
+React 21: Create a Stateful Component
+React 22: Render State in the UI
+React 23: Render State in the UI Another Way
+React 24: Set State with this.setState
+React 25: Bind 'this' to a Class Method
+React 26: Bind 'this' with an ES6 Arrow Function
+React 27: Use State to Toggle an Element
+React 28: Write a Simple Counter
+React 29: Create a Controlled Input
+React 30: Create a Controlled Form
+
+React 31: Pass State as Props to Child Components
+
+
+
 
 ## Redux
 
