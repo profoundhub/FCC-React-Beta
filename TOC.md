@@ -10,6 +10,17 @@ React 07: Create a Stateless Functional Component
 React 08: Create a Component with React
 React 09: Create a Component with Composition
 React 10: Use React to Render Nested Components
+React 11: Compose React Components
+React 12: Render a Class Component to the DOM
+React 13: Write a React Component from Scratch
+React 14: Pass a String to a Functional Component
+React 15: Pass an Array as Props
+React 16: Use Default Props
+React 17: Override Default Props
+React 18: Use PropTypes to Define the Props You Expect
+React 19: Access Props Using this.props
+React 20: Using Props with Stateless Functional Components
+
 
 ## Redux
 
