@@ -1,9 +1,26 @@
-// React 08: Create a Component with React
+# Free Code Camp React Challenge Demo: React 08: Create a Component with React
 
+QA status: Needs Review
+Challenge: Create a React Component
+Intro: The other way to define a React component is with the ES6 class syntax. In the following example, Kitten extends React.Component:
 
+class Kitten extends React.Component {
+  constructor(props) {
+    super(props);
+  }
 
-# Free Code Camp React Challenge Demo: 
+  render() {
+    return (
+    	<h1>Hi</h1>
+    );
+  }
+}
 
+This creates an ES6 class Kitten which extends the React.Component class. So the Kitten class now has access to many useful React features, such as local state and lifecycle hooks. Don't worry if you aren't familiar with these terms yet, they will be covered in greater detail in later challenges. 
+
+Also notice the Kitten class has a constructor defined within it that calls super(). It uses super() to call the constructor of the parent class, in this case React.Component. The constructor is a special method used during the initialization of objects that are created with the class keyword. It is best practice to call a component's constructor with super, and pass props to both. This makes sure the component is initialized properly. For now, know that it is standard for this code to be included. Soon you will see other uses for the constructor as well as props.
+
+Instructions: MyComponent is defined in the code editor using class syntax. Modify the render method so it returns a div element that contains an h1 with the text Hello React!.'
 
 ### Live Preview:
 
@@ -17,9 +34,26 @@
 * Next Challenge
 * Test Code
 
-### 
+### Your code does not pass the tests, 0 out of 4 tests are passing
+Your JSX code should transpile successfully.
+The React component should return a div element.
+The returned div should render an h1 tag within it.
+The h1 tag should include the string 'Hello React!'
 
 
 ### Code (press Cmd/Ctrl + Enter to run)
 
-1 // write your code here
+class MyComponent extends React.Component {
+	constructor(props) {
+		super(props);
+	}
+  render() {
+    return (
+	    // change code below this line
+
+
+
+	    // change code above this line
+    );
+  }
+};
