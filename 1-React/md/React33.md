@@ -1,1 +1,0 @@
-// React 33: Use the Lifecycle Method componentWillMount

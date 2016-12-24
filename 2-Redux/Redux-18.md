@@ -1,0 +1,1 @@
+// Redux 18: Use the ES6 Spread Operator with Objects

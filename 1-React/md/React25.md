@@ -1,1 +1,0 @@
-// React 25: Bind 'this' to a Class Method

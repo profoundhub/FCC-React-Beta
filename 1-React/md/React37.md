@@ -1,1 +1,0 @@
-// React 37: Optimize Re-Renders with shouldComponentUpdate

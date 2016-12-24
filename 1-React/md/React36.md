@@ -1,1 +1,0 @@
-// React 36: Manage Updates with Lifecycle Methods
