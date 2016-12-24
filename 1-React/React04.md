@@ -1,6 +1,6 @@
-React 04: Render HTML Elements to the DOM
+Free Code Camp React Challenge Demo: React 04: Render HTML Elements to the DOM
 
-Free Code Camp React Challenge Demo:
+
 
 QA status: Needs Review
 
