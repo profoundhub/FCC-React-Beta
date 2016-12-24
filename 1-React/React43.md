@@ -30,7 +30,6 @@ When display is set to true, a div, button, and h1 are rendered.
 When display is set to false, only a div and button are rendered.
 The Child component returns null when passed a falsy value for the display prop, otherwise it returns an h1 element.
 
-
 ### Code (press Cmd/Ctrl + Enter to run)
 
     class Parent extends React.Component {
