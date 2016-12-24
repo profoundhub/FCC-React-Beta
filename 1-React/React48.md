@@ -1,0 +1,1 @@
+// React 48: Render React on the Server with renderToString
