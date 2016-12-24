@@ -1,0 +1,1 @@
+// Redux 08: Use const for Action Types

@@ -1,1 +1,0 @@
-// React 40: Use Advanced JavaScript in React Render Method

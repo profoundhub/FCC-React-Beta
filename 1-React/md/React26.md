@@ -1,1 +1,0 @@
-// React 26: Bind 'this' with an ES6 Arrow Function
