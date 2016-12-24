@@ -1,9 +1,9 @@
 // React 19: Access Props Using this.props
 
+
 class ReturnTempPassword extends React.Component {
   constructor(props) {
   	super(props);
-		this.props.tempPassword = "abcdjklm2468"
   }
   render() {
     return (
@@ -28,7 +28,7 @@ class ResetPassword extends React.Component {
         	<h3>We've generated a new temporary password for you.</h3>
         	<h3>Please reset this password from your account settings ASAP.</h3>
         	{ /* change code below this line */ }
-						<ReturnTempPassword  />
+						<ReturnTempPassword tempPassword = "abcdjklm2468" />
         	{ /* change code above this line */ }
         </div>
     );
@@ -37,7 +37,8 @@ class ResetPassword extends React.Component {
 
 /*
 
-Your code does not pass the tests, 3 out of 5 tests are passing
+All tests passed!
+
 Your JSX code should transpile successfully.
 The ResetPassword component should return a single div element.
 The ResetPassword component's fourth child should be the ReturnTempPassword component.
