@@ -22,7 +22,7 @@ const Fruits = () => {
 			{ /* change code above this line */ }
 		</div>
 	);
-};
+};c
 
 class TypesOfFood extends React.Component {
   constructor(props) {
